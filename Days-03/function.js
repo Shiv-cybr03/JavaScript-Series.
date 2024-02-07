@@ -26,17 +26,6 @@
 
 // anotheruser(userdeltails)
 
-
-// const myarray = [10,22,3,50,80,46,20,"Shiv",20,"Sabaila"]
-// console.log(myarray);
-
-// for (let index = 0; index < myarray.length; index++) {
-//     const element = myarray[index];
-//     if (element == 20){
-//         console.log("20 is present Index at :",index);
-//     }
-// }
-
 // const square = function (num){
 //     return num * num
 // }
